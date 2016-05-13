@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih07unkngoog_0283.png"; bbox 0 0 2717 4659; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 208 1201 2547 1652">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 208 1201 2547 1652">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 1201 2413 1410; baseline 0.002 -61"><span class='ocrx_word' id='word_1_1' title='bbox 242 1255 251 1262; x_wconf 86' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 410 1211 2066 1387; x_wconf 36' lang='lat' dir='ltr'>&#39;&#39;T.L1V11‘PATAV1N1-</span> <span class='ocrx_word' id='word_1_3' title='bbox 2191 1201 2216 1214; x_wconf 67' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2409 1403 2413 1410; x_wconf 10' lang='lat' dir='ltr'><em>st</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 208 1518 2547 1652; baseline 0.001 -37"><span class='ocrx_word' id='word_1_5' title='bbox 208 1518 2547 1652; x_wconf 78' lang='lat' dir='ltr'>HISTORIARUM-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 509 1797 2033 1876">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 509 1797 2033 1876">
+     <span class='ocr_line' id='line_1_3' title="bbox 509 1797 2033 1876; baseline 0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 509 1799 687 1874; x_wconf 80' lang='grc' dir='ltr'><strong>ΔἬ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 789 1797 1204 1876; x_wconf 78' lang='lat' dir='ltr'>URBE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1307 1798 2033 1876; x_wconf 60' lang='lat' dir='ltr'><strong>QONDITA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 310 2023 2215 2136">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 310 2023 2215 2136">
+     <span class='ocr_line' id='line_1_4' title="bbox 310 2023 2215 2136; baseline -0.001 -37"><span class='ocrx_word' id='word_1_9' title='bbox 310 2023 660 2115; x_wconf 77' lang='lat' dir='ltr'>LIBRI,</span> <span class='ocrx_word' id='word_1_10' title='bbox 759 2034 949 2136; x_wconf 74' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1031 2034 1717 2114; x_wconf 66' lang='lat' dir='ltr'><strong>SUPER&#39;SUN&#39;P,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1817 2032 2215 2103; x_wconf 73' lang='lat' dir='ltr'><strong>OMNES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 677 2352 1891 2444">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 677 2352 1891 2444">
+     <span class='ocr_line' id='line_1_5' title="bbox 677 2352 1891 2444; baseline 0.002 -8"><span class='ocrx_word' id='word_1_13' title='bbox 677 2352 1170 2444; x_wconf 68' lang='lat' dir='ltr'>moMUS</span> <span class='ocrx_word' id='word_1_14' title='bbox 1313 2355 1891 2439; x_wconf 54' lang='lat' dir='ltr'>SEXTUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 866 2561 1674 2648">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 866 2561 1674 2648">
+     <span class='ocr_line' id='line_1_6' title="bbox 866 2561 1674 2648; baseline 0 -3"><span class='ocrx_word' id='word_1_15' title='bbox 866 2581 1096 2646; x_wconf 74' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_16' title='bbox 1145 2561 1674 2648; x_wconf 71' lang='lat' dir='ltr'><strong>Posmmo‘n.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
